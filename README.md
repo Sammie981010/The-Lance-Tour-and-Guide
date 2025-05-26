@@ -1,0 +1,1 @@
+At the heart of every website lies the powerful index.html file — the digital front door that welcomes users, loads all essential elements, and brings the entire online experience to life. It's the backbone that connects design, functionality, and content into one seamless masterpiece
